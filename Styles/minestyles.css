@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: antiquewhite;
+}
+
+#accordion {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
